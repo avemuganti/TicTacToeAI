@@ -13,6 +13,6 @@ To change the functionality, toggle PLAY_TO_WIN and alter the function calls wit
   
   - Within main(), playAiXTurn() can be changed to PlayPlayerXTurn(), and it does what one might expect: It lets the player make the move, rather than the AI.
   
-* Note: The address of the two AI save files may have to be changed in order for the program to work. This depends on operating system, file storage location, etc.
+** Note: The address of the two AI save files may have to be changed in order for the program to work. This depends on operating system, file storage location, etc.
 
 Enjoy!
