@@ -31,8 +31,8 @@ bool playPlayerOTurn();
 
 int main() {
     
-    string xFileName = "/Users/anandvemuganti/Desktop/cpp/TicTacToe AI/TicTacToe AI/AISaveFile.txt";
-    string oFileName = "/Users/anandvemuganti/Desktop/cpp/TicTacToe AI/TicTacToe AI/AISaveFile2.txt";
+    string xFileName = "AISaveFile.txt";
+    string oFileName = "AISaveFile2.txt";
     
 //------------------------------------------------------------------------------------------
     
